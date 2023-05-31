@@ -1,0 +1,9 @@
+La classification de l'écriture manuscrite et informatique est une tâche qui consiste à différencier et à catégoriser les écritures selon leur mode de production, qu'il s'agisse d'une écriture réalisée à la main ou générée par un ordinateur.
+
+Pour classifier l'écriture manuscrite, on peut utiliser des techniques d'analyse d'images et de reconnaissance de caractères. Ces techniques comprennent généralement des étapes telles que la **segmentation** des caractères, l'**extraction** des caractéristiques et l'utilisation d'algorithmes d'apprentissage automatique pour la **classification**. Les méthodes couramment utilisées pour la reconnaissance de l'écriture manuscrite comprennent les réseaux de neurones convolutionnels (CNN), les modèles de Markov cachés (HMM) et les réseaux de neurones récurrents (RNN).
+
+En revanche, pour classifier l'écriture informatique, il peut être nécessaire d'analyser le contenu et la structure du texte plutôt que les caractéristiques visuelles. Par exemple, on peut utiliser des méthodes de traitement du langage naturel (NLP) pour extraire des caractéristiques linguistiques et syntaxiques du texte informatique, puis utiliser des algorithmes de classification tels que les machines à vecteurs de support (SVM) ou les arbres de décision pour effectuer la classification.
+
+Il convient de noter que la classification de l'écriture manuscrite et informatique peut être complexe car il peut exister une grande variabilité au sein de chaque catégorie. De plus, les techniques de classification peuvent nécessiter un ensemble de données d'apprentissage annoté pour entraîner les modèles de classification de manière efficace.
+
+En résumé, la classification de l'écriture manuscrite et informatique implique l'utilisation de différentes techniques d'analyse d'images, de reconnaissance de caractères et de traitement du langage naturel pour différencier et catégoriser les écritures en fonction de leur mode de production.
